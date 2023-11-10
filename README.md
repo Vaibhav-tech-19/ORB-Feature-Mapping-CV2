@@ -35,7 +35,6 @@ This Streamlit web application allows users to upload an image and apply the ORB
 ## File Structure
 - `app.py`: Main Streamlit application code.
 - `requirements.txt`: List of required Python packages.
-- (Add any additional files or directories as needed)
 
 ## How to Customize
 - To modify the appearance or behavior of the web app, edit the `app.py` file.
